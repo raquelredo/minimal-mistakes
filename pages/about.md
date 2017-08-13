@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "About me and this site"
 excerpt: ""
 modified: 2017-08-06 11:11
@@ -7,6 +7,7 @@ image:
   feature: banner3.jpg
   credit:
   creditlink:
+permalink: /about/
 ---
 
 ## Analyzing Data is all about:
