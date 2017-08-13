@@ -48,31 +48,34 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : 
-bing_site_verification   :
+google_site_verification :
+bing_site_verification   : 0FC3FD70512616B052E755A56F8952D
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "rredop"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /assets/images/site-logo.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Person # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links:
+    - "https://twitter.com/rredop"
+    - "https://github.com/raquelredo"
+    - "https://www.linkedin.com/in/raquelredo" # An array of links to social media profiles
 
 # Analytics
 analytics:
   provider               : google # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-92188520-1
+    tracking_id          : "UA-92188520-1"
 
 
 # Site Author
@@ -82,7 +85,7 @@ author:
   bio              : ""Former economist, cat lover and longlife student"
   location         : "Spain"
   email            : letadigital@gmail.com
-  uri              :
+  uri              : "http://analyzingdata.org"
   bitbucket        :
   codepen          :
   dribbble         :
