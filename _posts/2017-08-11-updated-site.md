@@ -4,6 +4,7 @@ excerpt: "I have rebuilt my site with Jekyll hosting on Github."
 categories: blog
 tags: [portfolio, jekyll, git, github,log]
 author: rachel
+layout: single
 image:
   feature: banner2.jpg
   credit: AnalyzingData

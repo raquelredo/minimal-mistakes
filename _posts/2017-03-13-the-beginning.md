@@ -1,5 +1,6 @@
 ---
 title: "The Beginning"
+layout: single
 excerpt: "Let's start this blog honestly. Until just some months ago I had no idea of data science, data analysis, machine learning or another fantasy concept that I will talk about you on this blog."
 categories: blog
 tags: [Beginners, Data science,About me, learning]

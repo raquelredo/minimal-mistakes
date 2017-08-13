@@ -4,6 +4,7 @@ excerpt: "Conversations with oneself when sleeping seems an impossible task"
 categories: blog
 tags: [beginners,Deep Learning,blog,Data Sicence,LinkedIn]
 author: rachel
+layout: single
 image:
   feature:
   credit: AnalyzingData

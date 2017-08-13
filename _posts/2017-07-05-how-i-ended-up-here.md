@@ -4,6 +4,7 @@ excerpt: "The story about how I ended up changing career towards data science."
 categories: blog
 tags: [Beginners,data science,blog,coaching]
 author: rachel
+layout: single
 image:
   feature: banner2.jpg
   credit: AnalyzingData
