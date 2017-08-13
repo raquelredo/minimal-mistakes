@@ -1,12 +1,9 @@
 ---
-layout: "post"
 title: "Groundhog days"
 excerpt: "Since I finished the course of data analyst I have not stopped studying. Every time I have done a job interview I have compiled information on topics and subjects that companies think I should know a little better in order to make my CV more attractive for the Data Science sector."
 categories: blog
 tags: [Beginners,Self-learning,resources,learning online,SQL]
 author: rachel
-comments: true
-share: true
 image:
   feature: banner1.jpg
   credit: AnalyzingData

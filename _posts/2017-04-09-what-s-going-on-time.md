@@ -1,12 +1,9 @@
 ---
-layout: "post"
 title: "What's going on time"
 excerpt: "A regular day in the life of a wanna be data scientist"
 categories: blog
 tags: [Beginners,data science,About me]
 author: rachel
-comments: true
-share: true
 image:
   feature:
   credit: AnalyzingData

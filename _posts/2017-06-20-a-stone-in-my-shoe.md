@@ -1,12 +1,9 @@
 ---
-layout: "post"
 title: "A 'stone' in my shoe"
 excerpt: "Conversations with oneself when sleeping seems an impossible task"
 categories: blog
 tags: [beginners,Deep Learning,blog,Data Sicence,LinkedIn]
 author: rachel
-comments: true
-share: true
 image:
   feature:
   credit: AnalyzingData

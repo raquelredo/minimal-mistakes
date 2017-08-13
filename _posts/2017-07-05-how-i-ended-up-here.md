@@ -1,12 +1,9 @@
 ---
-layout: "post"
 title: "How I ended up here..."
 excerpt: "The story about how I ended up changing career towards data science."
 categories: blog
 tags: [Beginners,data science,blog,coaching]
 author: rachel
-comments: true
-share: true
 image:
   feature: banner2.jpg
   credit: AnalyzingData

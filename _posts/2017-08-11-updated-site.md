@@ -1,12 +1,9 @@
 ---
-layout: "post"
 title: "Updated site"
 excerpt: "I have rebuilt my site with Jekyll hosting on Github."
 categories: blog
 tags: [portfolio, jekyll, git, github,log]
 author: rachel
-comments: true
-share: true
 image:
   feature: banner2.jpg
   credit: AnalyzingData
