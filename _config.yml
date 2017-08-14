@@ -7,7 +7,7 @@
 
 # Site Settings
 #locale                   : "en-US"
-title                    : "Analyzing Data"
+title                    :  "Analyzing Data"
 title_separator          : "|"
 name                     : "Rachel"
 description              : "Changing career towards Data Science. Learning Machine Learning, Dep Learning and Artificial Intelligence."
